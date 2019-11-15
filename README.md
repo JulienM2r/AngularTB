@@ -1,5 +1,13 @@
 # Essai
 
+Pierre,
+J'ai finalement suivi la piste que tu m'as donnée sur le conflit des routes déclaré dans des sous modules et dans le appModuleRouting.
+Maintenant ca s'affiche mais je n'ai pas pu tout debugger notament l'utilisation du pipe Even que j'ai du desactiver dans l'affichage html.
+Merci en tout cas pour ton suivi.
+Cdlt,
+Julien
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.0.
 
 ## Development server
